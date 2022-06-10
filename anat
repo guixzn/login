@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>anatomia </title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body > 
+
+
+  <nav>
+		<input type="checkbox" id="check">
+		<label for="check" class="checkbtn">
+			<i class="fas fa-bars"></i>
+		</label>
+
+		<img class="ceara" src="ceara.png" alt="ERRO" >
+
+		<ul>
+			<li><a class="active" href="#">Início</a></li>
+			<li><a href="https://www.tuasaude.com/melhor-exercicio-para-emagrecer/" target="_blank">Exercícios para emagrecer</a></li>
+			<li><a href="#">Serviços</a></li>
+			<li><a href="#">Contato</a></li>
+		</ul>
+	</nav>
+	
+
+
+<div id="bodyyy">
+
+    <h1 id="mudar">O QUE É ANATOMIA HUMANA?</h1>
+    <br>
+ 
+
+    <p>A Anatomia Humana é a <b> ciência que estuda as estruturas corporais, como elas se formam e como funcionam em conjunto no corpo (sistemas) </b>.</p>
+   
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <h1>O que a Anatomia Estuda?</h1>
+<br>
+    <p>A anatomia analisa como as estruturas do corpo podem ser afetadas pela genética (alterações cromossômicas que passam aos descendentes), pelo ambiente (doenças) e pelo tempo (modificações da infância à velhice).
+  <br>
+  <br>
+        Além disso investiga os mecanismos evolutivos que provocam modificações e alteram suas funções. Está relacionada com a Biologia, a Medicina, a Fisioterapia, a Enfermagem e outras áreas biomédicas.</p>
+   <br>
+   <p>Na anatomia há muitos nomes que podem assustar qualquer iniciante, mas são fundamentais para a melhor compreensão do assunto. Além dos nomes dos órgãos e estruturas, há termos e convenções que são essenciais, são eles: divisão do corpo e posição anatômica, planos, eixos e movimentos anatômicos.</p>
+
+<br>
+<br>
+<br>
+   <h1>Termos Técnicos de Anatomia</h1>
+   <br>
+   <p>Na anatomia há muitos nomes que podem assustar qualquer iniciante, mas são fundamentais para a melhor compreensão do assunto. Além dos nomes dos órgãos e estruturas, há termos e convenções que são essenciais, são eles: divisão do corpo e posição anatômica, planos, eixos e movimentos anatômicos.</p>
+<br>
+<br>
+<br>
+<br>
+  <h2>Divisão do Corpo</h2>
+  <br>
+  <p>Como em outras áreas biológicas,<b> na anatomia o estudo é feito por partes, que pode ser ao nível macroscópico ou microscópico </b>. Há especialistas para cada área, por exemplo: miologista (músculos), osteologista (ossos), entre outros.
+    <br>
+    <br>
+    Por isso que os médicos se tornam especialistas em uma área do corpo que ele estudou melhor, como o pneumologista, que trata dos pulmões.
+    <br>
+    <br>
+    O corpo humano é dividido em grandes grupos: <b> cabeça, pescoço, tronco e membros </b>. Cada um desses é subdividido em partes específicas.
+  <br>
+  <br>
+    Por exemplo, na cabeça estão o crânio (onde se localiza o encéfalo e medula) e a face (olhos, nariz, boca, orelhas)...</p>
+  <br>
+  <br>
+  <br>
+  <br>
+
+        <center>
+    <img src="anatomia1.webp" alt="">
+   </center>
+
+   <p id="corpo"><b>VEJA TAMBÉM: </b><a target="_blank" href="https://www.todamateria.com.br/corpo-humano/">CORPO HUMANO</a></b></p>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <h1>O que é Posição Anatômica?</h1>
+   <br>
+   <p>A <b>posição anatômica </b> é adotada cientificamente para o estudo do corpo humano. Nessa posição a pessoa encontra-se de pé, com o rosto virado para a frente e olhar direcionado para o horizonte. Os braços estendidos ao longo do corpo, com as palmas das mãos viradas para frente. As pernas ficam juntas e os pés voltados para frente.</p>
+    <br>
+    <br>
+    <br>
+    <center>
+    <img src="mulher.webp" alt="">
+    <p id="mulher">Representação de mulher em posição anatômica</p>
+  </center>
+
+  <h3> <b>Leia também:</b></h3>
+  <br>
+  <br>
+
+  <ul id="com-estilo">
+    <li>
+    <a target="_blank" href=" https://www.todamateria.com.br/partes-do-corpo-humano/">PARTES DO CORPO HUMANO;</a></li>
+    <li> 
+    <a target="_blank" href="https://www.todamateria.com.br/membros-do-corpo-humano/">MEMBROS DO CORPO HUMANO</a></li>
+    <li>
+      <a target="_blank" href="https://www.todamateria.com.br/sistemas-do-corpo-humano/">SISTEMAS DO CORPO HUMANO</a></li>
+    <li>
+      <a target="_blank" href="https://www.todamateria.com.br/orgaos-do-corpo-humano/">ORGÃOS DO CORPO HUMANO</a></li>
+    <li>
+      <a target="_blank" href="https://www.todamateria.com.br/orgaos-do-corpo-humano-sem-os-quais-voce-pode-sobreviver/">ORGÃOS DO CORPO HUMANO SEM OS QUAIS VOCÊ PODE SOBREVIVER</a></li>
+  
+</ul>
+   
+
+  </div>
+<footer>
+
+
+</footer>
+</body>
+</html>
